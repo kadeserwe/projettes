@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "sn.ssi.projet",
+      "nativeLanguage": "fr"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "gateway",
+    "baseName": "projet",
+    "packageName": "sn.ssi.projet",
+    "packageFolder": "sn/ssi/projet",
+    "serverPort": "7890",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MjhkYjU3ODEyN2I0MDNkMzQwZTc5MDE1ZjkzNjE3ZWJmYWJkMTMwYTBjYWRmNDM4MGQwYmE5MmZhNDJlMTk1YmU0Y2Q3MWM2ZmM4M2RjODcwMGVmODQwMDY5YTVjOTM4ODBjNmQ3NGQ3MjBkNjM1MjY2YmMzZDNmOTMxMzQ1ZDQ=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1625829419623,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "fr",
+    "languages": ["fr"],
+    "blueprints": []
+  }
+}
